@@ -1,0 +1,4 @@
+#Tue Feb 25 15:57:20 SGT 2020
+base.0=C\:\\Users\\HP\\Desktop\\flutterapps\\fraction_calculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
